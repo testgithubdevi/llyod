@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> Welcome to SNIT for Devops Training</h2>
+	<h2> Welcome to SNIT for AWS  Devops Training</h2>
   
 </body>
 </html>
